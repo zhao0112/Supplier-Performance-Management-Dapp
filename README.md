@@ -22,7 +22,7 @@ Solidity: A contract-oriented, high-level language for implementing smart contra
 
 Getting Started
 Clone the repository:
-git clone https://github.com/yourusername/supplier-performance-management-dapp.git
+git clone https://github.com/zhaozl0112/supplier-performance-management-dapp.git
 
 Install dependencies:
 
